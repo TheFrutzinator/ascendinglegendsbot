@@ -1,0 +1,11 @@
+{
+  "name": "Ascending Legends",
+  "version": "1.0.0",
+  "description": "The Official Ascending Legends Discord Bot",
+  "main": "bot.js",
+  "author": "Frutz",
+  "dependencies": {
+  "discord.io": "^2.5.3",
+  "winston": "^2.4.0"
+  }
+}
